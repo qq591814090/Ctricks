@@ -1,0 +1,5 @@
+char name_list[N][N];
+for ( i = 0; i< N; i++ ) {
+    printf("%*.s",N,name_list[N]);
+}
+/* this line of code is used as a way of printing string at varible length*/
